@@ -1,0 +1,11 @@
+c:\users\kar70\source\repos\Snake\SnakeGame\bin\Release\netcoreapp2.0\SnakeGame.deps.json
+c:\users\kar70\source\repos\Snake\SnakeGame\bin\Release\netcoreapp2.0\SnakeGame.runtimeconfig.json
+c:\users\kar70\source\repos\Snake\SnakeGame\bin\Release\netcoreapp2.0\SnakeGame.runtimeconfig.dev.json
+c:\users\kar70\source\repos\Snake\SnakeGame\bin\Release\netcoreapp2.0\SnakeGame.dll
+c:\users\kar70\source\repos\Snake\SnakeGame\bin\Release\netcoreapp2.0\SnakeGame.pdb
+c:\users\kar70\source\repos\Snake\SnakeGame\obj\Release\netcoreapp2.0\SnakeGame.csproj.CoreCompileInputs.cache
+c:\users\kar70\source\repos\Snake\SnakeGame\obj\Release\netcoreapp2.0\SnakeGame.AssemblyInfoInputs.cache
+c:\users\kar70\source\repos\Snake\SnakeGame\obj\Release\netcoreapp2.0\SnakeGame.AssemblyInfo.cs
+c:\users\kar70\source\repos\Snake\SnakeGame\obj\Release\netcoreapp2.0\SnakeGame.dll
+c:\users\kar70\source\repos\Snake\SnakeGame\obj\Release\netcoreapp2.0\SnakeGame.pdb
+c:\users\kar70\source\repos\Snake\SnakeGame\obj\Release\netcoreapp2.0\SnakeGame.csprojResolveAssemblyReference.cache
